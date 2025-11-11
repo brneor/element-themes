@@ -1,6 +1,6 @@
 {
   "name": "Orkut",
-  "is_dark": false,
+  "is_dark": true,
   "colors": {
     "accent-color": "#E85D9A",
     "primary-color": "#E75FA8",
